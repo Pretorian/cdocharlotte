@@ -1,0 +1,29 @@
+﻿Started: 6/21/2012 2:21 PM
+
+Connected to mestreesquilo2012.
+favicon.ico - Put operation successful
+gdform.php - Put operation successful
+images\about.jpg - Put operation successful
+images\contact.jpg - Put operation successful
+images\index.jpg - Put operation successful
+images\schedule.jpg - Put operation successful
+images\work.jpg - Put operation successful
+missing.html - Put operation successful
+php.ini - Put operation successful
+sitemestreesquilo.html - Put operation successful
+stats\.htaccess - error occurred - An FTP error occurred - cannot put .htaccess.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+stats\.statspwd - error occurred - An FTP error occurred - cannot put .statspwd.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+stats\index.html - error occurred - An FTP error occurred - cannot put index.html.  Access denied.  The file may not exist, or there could be a permission problem.   Make sure you have proper authorization on the server and the server is properly configured.
+webformmailer.php - Put operation successful
+welcome.html - Put operation successful
+work.html - Put operation successful
+
+File activity incomplete. 3 file(s) or folder(s) were not completed.
+Files updated: 13
+
+Files with errors: 3
+stats\.htaccess
+stats\.statspwd
+stats\index.html
+
+Finished: 6/21/2012 2:22 PM
