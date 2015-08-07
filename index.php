@@ -337,19 +337,20 @@
   <div class="pricing_table_col" style="float:left">
   <ul>                             
   <li style="height: 61px;">Monday</li>
-  <li style="height: 61px;">  
-    6:00 pm    Brazilian Rhytms & Forró Class</li> <li style="height: 61px;">
-    7:00 pm     Capoeira Iniciante (Beginner) </li>  <li style="height: 61px;">
-    8:00 pm     Capoeira (Intermediate) </li>  <li style="height: 61px;">
-    9:00 pm     Capoeira (Advanced) </li>
-   
+  <li style="height: 61px;">
+    7:00 pm     Capoeira Iniciante (Beginner) 
+  </li>  
+  <li style="height: 61px;">
+    8:00 pm     Capoeira (Intermediate) </li>  
+  <li style="height: 61px;">
+    9:00 pm     Capoeira (Advanced) </li> 
   </ul>
   </div>
 
   <div class="pricing_table_col" style="float:left">
   <ul>                             
   <li style="height: 61px;">Tuesday</li>
-  <li style="height: 61px;"></li>  <li style="height: 61px;">
+  <li style="height: 61px;">
      12:00 pm   Capoeira - All Levels</li>  <li style="height: 61px;">
      5:00 pm    Kids Capoeira </li> <li style="height: 61px;">
      <!-- 8:00 pm    Acrobatics - All Levels Zenith Gymnastics <a href="http://maps.google.com/maps?hl=en&q=Zenith%20Gymnastics%208617%20Moroe%20Rd%2C%20Charlotte%20NC%2028212">map</a>  --></li> 
@@ -358,16 +359,10 @@
 
   <div class="pricing_table_col" style="float:left">
   <ul>
-  <li style="height: 61px;">
-  Wednesday</li>
-  <li style="height: 61px;">
-     6:00 pm    Brazilian Rhytms & Forró Class</li>  <li style="height: 61px;">
-     7:00 pm    Capoeira Iniciante (Beginner) </li><li style="height: 61px;">
-     8:00 pm    Capoeira (Intermediate) </li><li style="height: 61px;">
-     9:00 pm    Capoeira (Advanced) </li>
-  
- 
-
+  <li style="height: 61px;">Wednesday</li>
+  <li style="height: 61px;">7:00 pm    Capoeira Iniciante (Beginner) </li>
+  <li style="height: 61px;">8:00 pm    Capoeira (Intermediate) </li>
+  <li style="height: 61px;">9:00 pm    Capoeira (Advanced) </li>
   </ul>
   </div>
  
@@ -376,9 +371,9 @@
   <ul><li style="height: 61px;">
   Thursday</li>
   <li style="height: 61px;">
-    12:00 pm   Capoeira - All Levels</li><li style="height: 61px;">
+    12:00 pm   Capoeira - All Levels</li>
+  <li style="height: 61px;">
     7:00 pm    Capoeira - All Levels</li>
-  <li style="height: 61px;">  </li>
   </ul>
   </div>
 
@@ -388,7 +383,6 @@
   <ul><li style="height: 61px;">
   Friday</li>
   <li style="height: 61px;"> 7:00 pm    Open Class (Members Only) </li>
-  <li style="height: 61px;">  </li>
   <li style="height: 61px;">  </li>
   </ul>
   </div>
